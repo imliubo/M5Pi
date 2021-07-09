@@ -1,3 +1,6 @@
 [submodule "buildroot-M5Pi"]
 	path = buildroot-M5Pi
 	url = https://github.com/imliubo/buildroot-M5Pi
+[submodule "M5Pi-Launcher"]
+	path = M5Pi-Launcher
+	url = https://github.com/imliubo/M5Pi-Launcher.git
