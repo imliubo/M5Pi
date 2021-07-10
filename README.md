@@ -42,4 +42,6 @@ dd if=buildroot-M5Pi/output/images/sysimage-sdcard.img of=/dev/sdX  # Please mak
 2. buildroot-M5Pi: follow the upstream
 
 ## Links
+[【自 制】这 可 能 是 最 精 致 的 Pi 了【Linux 小主机 | 开 源 | 硬 核】](https://www.bilibili.com/video/BV1RV411W7eH/)
+
 [[开源项目-记录贴]扔掉你手中的开发板，跟我来自制基于F1C100s/F1C200s的M5Pi吧!](https://whycan.com/t_6402.html)
