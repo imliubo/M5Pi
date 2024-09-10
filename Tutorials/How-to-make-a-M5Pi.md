@@ -1,14 +1,4 @@
----
-title: 开源！教你自制最精致的Pi！
-comments: true
-copyright: CC 4.0
-categories:
-  - projects
-tags:
-  - Linux
-date: 2021-08-13 12:49:59
----
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=419123376&bvid=BV1RV411W7eH&cid=367752060&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+# How to make a M5Pi :)
 
 ## 是什么
 
