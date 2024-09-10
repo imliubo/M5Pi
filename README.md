@@ -46,7 +46,7 @@ dd if=buildroot-M5Pi/output/images/sysimage-sdcard.img of=/dev/sdX  # Please mak
 
 [[开源项目-记录贴]扔掉你手中的开发板，跟我来自制基于F1C100s/F1C200s的M5Pi吧!](https://whycan.com/t_6402.html)
 
-[How-to-make-a-M5Pi](https://blogs.oopswow.com/2021/08/13/How-to-make-a-M5Pi/)
+[How-to-make-a-M5Pi](./Tutorials/How-to-make-a-M5Pi.md)
 
 ## Thanks to the sponsor Seeed!
 Seeed Fusion PCB Assembly Service offers one-stop prototyping for PCB manufacture, PCB assembly and as a result they produce superior quality PCBs and Fast Turnkey PCBA from 7 working days. When you prototype with Seeed Fusion, they can definitely provide Free DFA and Free functional tests for you! Check out their website to know more: https://www.seeedstudio.com/prototype-pcb-assembly.html
